@@ -1,0 +1,5 @@
+belajar mengingat git
+- mempelajari command window
+- bisa mengoperasikan git
+- bekerja dengan tim
+- bismillah
