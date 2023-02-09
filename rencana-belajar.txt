@@ -1,0 +1,11 @@
+rencana belajar
+
+- test case
+* video
+* materi
+* resume
+* kuis
+- use case
+- scenario test
+- selenium
+- agile
