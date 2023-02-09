@@ -9,6 +9,7 @@ rencana belajar
 - scenario test
 - selenium
 - agile
-  - web testing
+  - mobile testing
 - jira
-  -resume
+ - code component
+
