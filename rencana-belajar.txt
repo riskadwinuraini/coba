@@ -13,3 +13,4 @@ rencana belajar
 - jira
  - code component
  - git
+  - membuat branch
