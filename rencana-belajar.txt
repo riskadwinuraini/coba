@@ -12,5 +12,4 @@ rencana belajar
   - mobile testing
 - jira
  - code component
- - git
-  - membuat branch
+
