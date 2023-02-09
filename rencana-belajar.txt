@@ -9,4 +9,6 @@ rencana belajar
 - scenario test
 - selenium
 - agile
+  - web testing
 - jira
+  -resume
