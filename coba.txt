@@ -3,4 +3,4 @@ belajar mengingat git
 - bisa mengoperasikan git
 - bekerja dengan tim
 - kolaborasi
-- bismillah
+- yuk bisa 
