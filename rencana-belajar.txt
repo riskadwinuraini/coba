@@ -1,0 +1,7 @@
+rencana belajar
+
+- test case
+- use case
+- scenario test
+- selenium
+- agile
